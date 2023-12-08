@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <>
-      <div className="min-h-screen flex">
+      <div className="min-h-screen flex bg-black">
         <div className="m-auto">
           <div
             className="w-min bg-gradient-to-t to-royal-blue-900 from-royal-blue-800 lg:px-3 px-1 lg:py-5 py-3
